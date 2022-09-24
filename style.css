@@ -102,6 +102,12 @@ h1 {
   font-weight: 800;
 }
 
+.dj {
+  color: #ce488b;
+  font-weight: 800;
+  font-size: 1.1rem;
+}
+
 @media (max-width: 900px) {
   .logo {
     display: flex;
